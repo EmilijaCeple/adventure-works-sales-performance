@@ -12,18 +12,18 @@
 - Data includes: sales transactions, order details, shipment data, salesperson records
 - Time period: 2001 - 2004
 
-## Analysis Objectives
+## Analysis objectives
 
 The business aimed to gain insights into the following areas:
 
-- 📈 Monthly Sales Trend
-- 🔍 Online vs. Non-Online Orders
-- 🚚 Delivery Performance Trend
-- 🏆 Top Salesperson
-- 🌍 Top Countries
-- 💡 Top Sales Reasons
+- 📈 Monthly sales trend
+- 🔍 Online vs. non-online orders
+- 🚚 Delivery performance trend
+- 🏆 Top salesperson
+- 🌍 Top countries
+- 💡 Top sales reasons
 
-## Files & Structure
+## Files & structure
 
 📂 adventure-works-sales-performance
 - 📊 adventure-works-sales-performance.xlsx (Main Excel file with analysis & dataset)
